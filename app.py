@@ -1,2 +1,2 @@
 import os
-os.system("df -h")
+os.system("free -h && whoami")
