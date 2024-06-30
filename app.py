@@ -1,2 +1,2 @@
 import os
-os.system("free -h && whoami")
+os.system("whoami")
